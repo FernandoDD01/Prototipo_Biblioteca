@@ -1,0 +1,12 @@
+C:\Users\fealv\source\repos\Prototipo\bin\Debug\Prototipo.exe.config
+C:\Users\fealv\source\repos\Prototipo\bin\Debug\Prototipo.exe
+C:\Users\fealv\source\repos\Prototipo\bin\Debug\Prototipo.pdb
+C:\Users\fealv\source\repos\Prototipo\obj\Debug\Prototipo.csproj.AssemblyReference.cache
+C:\Users\fealv\source\repos\Prototipo\obj\Debug\Prototipo.Properties.Resources.resources
+C:\Users\fealv\source\repos\Prototipo\obj\Debug\Prototipo.csproj.GenerateResource.cache
+C:\Users\fealv\source\repos\Prototipo\obj\Debug\Prototipo.csproj.CoreCompileInputs.cache
+C:\Users\fealv\source\repos\Prototipo\obj\Debug\Prototipo.exe
+C:\Users\fealv\source\repos\Prototipo\obj\Debug\Prototipo.pdb
+C:\Users\fealv\source\repos\Prototipo\obj\Debug\Prototipo.Login.resources
+C:\Users\fealv\source\repos\Prototipo\obj\Debug\Prototipo.Inicio.resources
+C:\Users\fealv\source\repos\Prototipo\obj\Debug\Prototipo.Libros.resources
